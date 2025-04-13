@@ -4,12 +4,15 @@
 # FlyingPathfinder (PublicDisplay)
 This project aims to create a pathfinding system for characters that can both fly and walk in Unreal Engine 5
 
-## Disclaimer
+## Disclaimer - This is a PRIVATE project
 <b> This page is only a public display to showcase updates of the tool while it is still in development, until its release on Fab.com. The actual source code is hosted in a private repository on this GitHub, but if you want to have a look at it for any valid reason, feel free to contact me at gforget2@gmail.com </b>
 
 ## Update Video :
 Initial Presentation:</br>
 https://youtu.be/GMGeVR_orkk
+
+Technical Presentation:</br>
+https://youtu.be/7DseSGOCBw0
 
 ## Feature included in the prototype
 - Custom volume box that automatically generates the 3D grid for air navigation
