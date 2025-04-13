@@ -7,6 +7,10 @@ This project aims to create a pathfinding system for characters that can both fl
 ## Disclaimer
 <b> This page is only a public display to showcase updates of the tool while it is still in development, until its release on Fab.com. The actual source code is hosted in a private repository on this GitHub, but if you want to have a look at it for any valid reason, feel free to contact me at gforget2@gmail.com </b>
 
+## Update Video :
+Initial Presentation:</br>
+https://www.youtube.com/watch?v=qL5ZdT1GYdI
+
 ## Feature included in the prototype
 - Custom volume box that automatically generates the 3D grid for air navigation
 - Works in tandem with the navmesh system for walking locomotion
@@ -23,7 +27,5 @@ This project aims to create a pathfinding system for characters that can both fl
 - One movement request cannot currently combine both walking and flying. However, if movement is set to handle both, it will pick the shortest path used by either.
 - Animation blending for the mage could use some improvement (although pretty good for a prototype)
 
-### Introduction
-Initial Presentation:</br>
-https://www.youtube.com/watch?v=qL5ZdT1GYdI
+
 
