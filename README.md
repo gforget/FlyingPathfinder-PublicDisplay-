@@ -9,7 +9,7 @@ This project aims to create a pathfinding system for characters that can both fl
 
 ## Update Video :
 Initial Presentation:</br>
-https://www.youtube.com/watch?v=qL5ZdT1GYdI
+<i>Coming soon </i>
 
 ## Feature included in the prototype
 - Custom volume box that automatically generates the 3D grid for air navigation
